@@ -1,124 +1,145 @@
 <div align="center">
 
-# Hi, I'm Hrithikesh Selvan 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7C3AED,100:FF00A8&height=220&section=header&text=HRITHIKESH%20SELVAN&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ECE%20%7C%20AI%20%7C%20IoT%20%7C%20FULL-STACK&descAlignY=58&descSize=18" width="100%" alt="Header" />
 
-### ECE Student • AI & IoT Builder • Full-Stack Developer • Volleyball Athlete
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=700&color=00F5FF&center=true&vCenter=true&width=850&lines=⚡+BUILDING+REAL-WORLD+TECH;🤖+AI+%2B+IOT+%2B+EMBEDDED+SYSTEMS;🌐+FULL-STACK+PRODUCT+ENGINEERING;🏐+ENGINEER+BY+DAY+%7C+ATHLETE+BY+HEART" alt="Typing intro" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Building+real-world+engineering+projects;Exploring+AI%2C+IoT+%26+Full-Stack+Development;ECE+Student+at+Amrita+Vishwa+Vidyapeetham;Always+learning.+Always+building." alt="Typing SVG" />
+<p>
+<img src="https://img.shields.io/badge/ECE%20Student-Amrita%20Vishwa%20Vidyapeetham-7C3AED?style=for-the-badge&logo=academia&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20%26%20IoT-Builder-00C9A7?style=for-the-badge&logo=robotframework&logoColor=white" />
+<img src="https://img.shields.io/badge/Full--Stack-Developer-FF3D81?style=for-the-badge&logo=webflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Volleyball-Athlete-FFB000?style=for-the-badge&logo=target&logoColor=white" />
+</p>
 
-<p><a href="https://github.com/hrith33"><img src="https://img.shields.io/badge/GitHub-hrithik33-181717?style=for-the-badge&logo=github" alt="GitHub" /></a></p>
+<p><a href="https://github.com/hrithik33"><img src="https://img.shields.io/badge/GITHUB-hrithik33-111827?style=for-the-badge&logo=github&logoColor=00F5FF" /></a> <a href="mailto:hrithikeshtamilselvan@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONNECT-111827?style=for-the-badge&logo=gmail&logoColor=FF3D81" /></a></p>
 
 </div>
 
----
+## 🧬 `SYSTEM.IDENTITY`
 
-## 🧑‍💻 About Me
+> **I don't just learn technology — I build with it.**
 
-I'm an Electronics & Communication Engineering student at **Amrita Vishwa Vidyapeetham, Chennai**, interested in building practical systems at the intersection of **software, AI, IoT, and embedded engineering**.
+Electronics & Communication Engineering student focused on turning ideas into **working products** across AI, IoT, embedded systems and modern web development.
 
-I enjoy turning an idea into a working product — from microcontroller-based prototypes and intelligent monitoring systems to full-stack web platforms.
+```text
+┌──────────────────────────────────────────────────────────────┐
+│  HRITHIKESH SELVAN                                          │
+│                                                              │
+│  ECE ──────► SOFTWARE ──────► AI ──────► REAL-WORLD SYSTEMS │
+│    │              │             │              │             │
+│    └──── EMBEDDED ┴──── IOT ────┴──── WEB ────┘             │
+│                                                              │
+│  STATUS: BUILDING • LEARNING • COMPETING                    │
+└──────────────────────────────────────────────────────────────┘
+```
 
-- 🎓 ECE student
-- 🤖 Exploring AI-powered applications
-- ⚡ Building IoT & embedded systems
-- 🌐 Developing full-stack web applications
-- 🏗️ Interested in product engineering and real-world automation
-- 🏐 Volleyball player and sports enthusiast
+## ⚡ `CURRENTLY_BUILDING`
 
----
+<table>
+<tr><td>🤖 <b>AI</b></td><td>AI assistants • intelligent systems • automation</td></tr>
+<tr><td>🔌 <b>IoT</b></td><td>ESP8266 • sensors • GPS • connected monitoring</td></tr>
+<tr><td>🌐 <b>FULL-STACK</b></td><td>Next.js • Flask • PostgreSQL • SaaS</td></tr>
+<tr><td>⚙️ <b>EMBEDDED</b></td><td>Arduino • electronics • hardware/software integration</td></tr>
+<tr><td>🏐 <b>ATHLETICS</b></td><td>Volleyball • strength training • competitive mindset</td></tr>
+</table>
 
-## 🚀 What I'm Working On
+## 🛠️ `TECH_MATRIX`
 
-| Area | Focus |
-|---|---|
-| 🤖 AI | AI assistants, intelligent decision systems, automation |
-| 🌐 Full Stack | Flask, Next.js, PostgreSQL, responsive web apps |
-| 🔌 IoT | ESP8266, sensors, GPS, connected monitoring |
-| ⚙️ Embedded | Arduino, electronics, hardware-software integration |
-| 📊 Engineering | Signal processing, digital electronics, communication systems |
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-<p><img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript,html,css" alt="Languages" /></p>
-
-### Frameworks & Development
-<p><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flask,tailwind,bootstrap" alt="Frameworks" /></p>
-
-### Databases & Tools
-<p><img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,git,github,linux,vscode,arduino" alt="Tools" /></p>
-
-### Electronics & Platforms
-`Arduino` `ESP8266` `GPS NEO-6M` `ADXL345` `Blynk` `MATLAB` `LTspice` `Tinkercad`
-
----
-
-## 🌟 Featured Projects
-
-### 🤖 JARVIS — AI Desktop Assistant
-A personal AI assistant designed to combine conversational AI with desktop automation and useful system controls.
-
-**Focus:** AI • APIs • Python • Automation
-
-### 🐄 PASHUSETU — Livestock Vaccination Intelligence
-A platform designed to help track livestock vaccination, prioritize villages, and support smarter vaccination campaign scheduling.
-
-**Focus:** AI • Data • Web Development • AgriTech
-
-### 🚗 Smart Accident Detection System
-An IoT-based accident detection system using motion sensing, GPS, connectivity, and real-time notifications.
-
-**Hardware:** Arduino UNO • ADXL345 • ESP8266 • GPS NEO-6M
-
-**Focus:** Embedded Systems • IoT • GPS • Real-Time Alerts
-
-### 🏭 TAMSEL India Service Portal
-A service-management platform designed for machine/service operations, with role-based access for administrators, employees, and customers.
-
-**Stack:** Flask • PostgreSQL • SQLAlchemy • Bootstrap • JavaScript
-
-**Focus:** Full-Stack Development • SaaS • Business Automation
-
-### ⚙️ HELIOS Automazioni
-A cinematic industrial automation web experience focused on premium product presentation and interactive machine showcases.
-
-**Stack:** Next.js • Tailwind CSS • Framer Motion
-
----
-
-## 📈 GitHub
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript,html,css,react,nextjs,nodejs,flask,tailwind,bootstrap,postgresql,mysql,sqlite,git,github,linux,vscode,arduino&perline=7" alt="Technology stack" />
+</p>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hrithik33&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="165" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrithik33&layout=compact&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
+<img src="https://img.shields.io/badge/AI%20%2F%20Automation-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/IoT-00C9A7?style=flat-square" />
+<img src="https://img.shields.io/badge/Embedded-00F5FF?style=flat-square" />
+<img src="https://img.shields.io/badge/Full--Stack-FF3D81?style=flat-square" />
+<img src="https://img.shields.io/badge/Electronics-FFB000?style=flat-square" />
 </div>
 
-<div align="center"><img src="https://streak-stats.demolab.com?user=hrithik33&hide_border=true" alt="GitHub Streak" /></div>
+## 🚀 `PROJECTS.IN_PRODUCTION`
 
----
+<details open>
+<summary><b>🤖 JARVIS — AI Desktop Assistant</b></summary>
+<br>
+Personal AI assistant combining conversational intelligence with desktop automation and system controls.
 
-## 🎯 Current Goals
+`AI` `Python` `APIs` `Automation`
+</details>
 
-- Build production-ready AI and IoT applications
-- Strengthen full-stack engineering skills
-- Work on impactful ECE + software projects
-- Contribute consistently to open-source projects
-- Grow as both an engineer and athlete
+<details open>
+<summary><b>🐄 PASHUSETU — Livestock Vaccination Intelligence</b></summary>
+<br>
+Digital livestock vaccination platform with village prioritization, campaign scheduling and intelligent service workflows.
 
----
+`AI` `AgriTech` `Data` `Web`
+</details>
 
-## 📫 Connect With Me
+<details>
+<summary><b>🚗 Smart Accident Detection System</b></summary>
+<br>
+IoT safety system using motion sensing, GPS and connectivity for accident detection and real-time alerts.
 
-<p><a href="https://github.com/hrithik33"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" /></a> <a href="mailto:hrithikeshtamilselvan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a></p>
+`Arduino UNO` `ADXL345` `ESP8266` `GPS NEO-6M` `Blynk`
+</details>
 
----
+<details>
+<summary><b>🏭 TAMSEL India Service Portal</b></summary>
+<br>
+Full-stack service management platform with role-based access for administrators, employees and customers.
+
+`Flask` `PostgreSQL` `SQLAlchemy` `Bootstrap` `JavaScript`
+</details>
+
+<details>
+<summary><b>⚙️ HELIOS Automazioni</b></summary>
+<br>
+Cinematic industrial automation website focused on immersive product presentation and interactive machine showcases.
+
+`Next.js` `Tailwind CSS` `Framer Motion`
+</details>
+
+## 📊 `GITHUB.TERMINAL`
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=hrithik33&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF&icon_color=FF3D81&ring_color=7C3AED&count_private=true&include_all_commits=true&rank_icon=github" height="180" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrithik33&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF3D81&text_color=FFFFFF&langs_count=8" height="180" alt="Top languages" />
+</div>
+
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=hrithik33&theme=dark&hide_border=true&background=0D1117&ring=00F5FF&fire=FF3D81&currStreakLabel=00F5FF&sideLabels=FFFFFF&dates=8B949E" width="75%" alt="GitHub streak" />
+</div>
+
+## 🧠 `ENGINEERING_MINDSET`
 
 <div align="center">
 
-### ⚡ Build. Break. Learn. Repeat.
+**IDEA** → **PROTOTYPE** → **BUILD** → **TEST** → **SHIP** → **ITERATE**
 
-<img src="https://komarev.com/ghpvc/?username=hrithik33&style=flat-square&color=blue" alt="Profile Views" />
+`Curiosity`  `Consistency`  `Problem Solving`  `Execution`
+
+</div>
+
+## 🎯 `2026.MISSION`
+
+- 🚀 Build production-ready AI + IoT products
+- 🧠 Go deeper into systems, AI and embedded engineering
+- 🌐 Ship polished full-stack applications
+- 🧩 Contribute to meaningful open-source projects
+- 🏐 Keep pushing performance on and off the court
+
+## 📡 `CONNECT`
+
+<div align="center">
+<a href="https://github.com/hrithik33"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=00F5FF" /></a>
+<a href="mailto:hrithikeshtamilselvan@gmail.com"><img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=FF3D81" /></a>
+</div>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=hrithik33&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views" />
+
+<br><br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00A8,50:7C3AED,100:00F5FF&height=120&section=footer" width="100%" alt="Footer" />
 
 </div>
